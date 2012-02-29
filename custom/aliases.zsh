@@ -10,6 +10,7 @@ alias vim='mvim -v'
 alias vi=vim
 alias dunnet='emacs -batch -l dunnet'
 alias tmux="TERM=screen-256color-bce tmux"
+alias irc='weechat-curses'
 
 # Ruby
 alias be='bundle exec'
