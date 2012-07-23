@@ -1,4 +1,4 @@
-alias grep='ack -B0 -A0'
+alias gap='git ap'
 alias dus='du -hs'
 alias df='df -h'
 alias ls='ls -h'
