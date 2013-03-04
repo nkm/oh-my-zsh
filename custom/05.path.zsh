@@ -1,5 +1,4 @@
 # PATH for MySQL
-export DYLD_LIBRARY_PATH=/usr/local/mysql/lib
 export PATH=/usr/local/mysql/bin:$PATH
 
 # PATH for MongoDB
