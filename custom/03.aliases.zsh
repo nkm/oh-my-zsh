@@ -10,6 +10,7 @@ alias vim='mvim -v'
 alias vi=vim
 alias dunnet='emacs -batch -l dunnet'
 alias tmux="TERM=screen-256color-bce tmux"
+alias tmux-pbcopy="tmux saveb -|pbcopy"
 alias irc='weechat-curses'
 
 # Ruby
