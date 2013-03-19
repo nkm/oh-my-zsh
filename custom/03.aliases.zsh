@@ -12,7 +12,7 @@ alias dunnet='emacs -batch -l dunnet'
 alias tmux="TERM=screen-256color-bce tmux"
 alias tmux-pbcopy="tmux saveb -|pbcopy"
 alias irc='weechat-curses'
-alias negdir='for i in *.tif; do negfix8 "$i"; done'
+alias negdir='for i in *.tif; do negfix8 -cs "$i"; done'
 
 # Ruby
 alias be='bundle exec'
