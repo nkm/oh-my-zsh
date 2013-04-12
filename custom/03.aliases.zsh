@@ -18,6 +18,7 @@ alias be='bundle exec'
 alias rspec='rspec --color'
 
 # Git
+alias g='git s'
 alias gs='git s'
 alias gap='git ap'
 alias gl='git l'
