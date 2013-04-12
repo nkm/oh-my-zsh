@@ -1,4 +1,3 @@
-alias gap='git ap'
 alias dus='du -hs'
 alias df='df -h'
 alias ls='ls -h'
@@ -17,3 +16,10 @@ alias negdir='for i in *.tif; do negfix8 -cs "$i"; done'
 # Ruby
 alias be='bundle exec'
 alias rspec='rspec --color'
+
+# Git
+alias gs='git s'
+alias gap='git ap'
+alias gl='git l'
+alias gd='git d'
+alias gds='git ds'
