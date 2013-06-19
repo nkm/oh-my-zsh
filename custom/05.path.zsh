@@ -9,6 +9,3 @@ export PATH=~/bin:$PATH
 
 # Add node binaries to path
 export PATH=/usr/local/share/npm/bin:$PATH
-
-# Set /usr/local/bin before /usr/bin for Homebrew
-export PATH=/usr/local/bin:/usr/local/sbin:$PATH
