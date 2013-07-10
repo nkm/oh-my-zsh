@@ -7,4 +7,4 @@ ZSH_THEME_GIT_PROMPT_CLEAN=""
 
 PROMPT='%{$fg[yellow]%}${PWD/#$HOME/~}$(git_prompt_info)%{$reset_color%} %{$fg_bold[blue]%}$ %{$reset_color%}'
 
-RPROMPT=''
+RPROMPT='%{$fg[grey]%}$(rbenv_prompt_info)%{$reset_color%}'
